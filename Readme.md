@@ -10,3 +10,6 @@ It prints "hello, world!". What else do you need?
 print("Hello, World!")
 
 > "This is a ... 
+
+**this is bold**
+_this is italics_
